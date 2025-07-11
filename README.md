@@ -49,7 +49,7 @@ Building responsive UI with basic HTML & CSS
 
 ## 🙋‍♀️ Author
 **Adrita Das**<br>
-Passionate about full-stack web development | GitHub Profile
+Passionate about full-stack web development | GitHub Profile(https://github.com/adrita50)
 
 ## 📜 License
 This project is for educational and personal use only.
