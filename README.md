@@ -19,7 +19,7 @@ This project is a **Recreation of a Simple Chrome Extension**, originally built 
 
 ## 📁 Project Structure
 ```
-hrome_Extension_Recreate/
+Chrome_Extension_Recreate/
 │
 ├── index.html # Popup interface
 ├── style.css # Custom styles for the popup
@@ -27,7 +27,7 @@ hrome_Extension_Recreate/
 ├── manifest.json # Extension manifest (v3)
 └── icons/ # Optional icons for the extension
 
-
+---
 
 ## 🧠 Learning Outcomes
 Working with Chrome Extension Manifest V3
@@ -38,9 +38,13 @@ Using localStorage for data persistence
 
 Building responsive UI with basic HTML & CSS
 
+---
+
 ## 📸 Screenshot
 
 <img width="1356" height="608" alt="image" src="https://github.com/user-attachments/assets/7fbe0cde-31b3-4fe1-b4d7-8c7eee3b5316" />
+
+---
 
 ## 🙋‍♀️ Author
 Adrita Das
