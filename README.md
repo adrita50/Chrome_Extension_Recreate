@@ -49,9 +49,13 @@ Passionate about full-stack web development | GitHub Profile
 This project is for educational and personal use only.
 You may modify and distribute with proper attribution.
 
-📜 License
-This project is for educational and personal use only.
-You may modify and distribute with proper attribution.
+## 📺 Tutorial Credit
+
+This project is a recreation of a Chrome Extension tutorial from **Scrimba**.  
+📌 [Watch the original tutorial here](https://scrimba.com/learn/learnjavascript/)
+
+Special thanks to Scrimba for the hands-on learning experience!
+
 
 
 
