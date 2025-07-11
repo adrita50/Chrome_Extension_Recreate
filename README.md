@@ -48,7 +48,7 @@ Building responsive UI with basic HTML & CSS
 
 
 ## 🙋‍♀️ Author
-**Adrita Das**
+**Adrita Das**<br>
 Passionate about full-stack web development | GitHub Profile
 
 ## 📜 License
