@@ -27,6 +27,7 @@ Chrome_Extension_Recreate/
 ├── manifest.json # Extension manifest (v3)
 └── icons/ # Optional icons for the extension
 
+```
 
 
 ## 🧠 Learning Outcomes
