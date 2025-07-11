@@ -25,7 +25,7 @@ Chrome_Extension_Recreate/
 ├── style.css # Custom styles for the popup
 ├── script.js # Main logic and event handling
 ├── manifest.json # Extension manifest (v3)
-└── icons/ # Optional icons for the extension
+└── icons/ # Optional icons for the extension ,this is the only file that every extension using WebExtension APIs must contain.
 
 ```
 
