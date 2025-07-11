@@ -18,6 +18,7 @@ This project is a **Recreation of a Simple Chrome Extension**, originally built 
 ---
 
 ## 📁 Project Structure
+```
 hrome_Extension_Recreate/
 │
 ├── index.html # Popup interface
