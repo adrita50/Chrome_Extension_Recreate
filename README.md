@@ -29,7 +29,7 @@ hrome_Extension_Recreate/
 
 
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 Working with Chrome Extension Manifest V3
 
 Handling DOM events using JavaScript
@@ -38,15 +38,15 @@ Using localStorage for data persistence
 
 Building responsive UI with basic HTML & CSS
 
-📸 Screenshot
+## 📸 Screenshot
 
 <img width="1356" height="608" alt="image" src="https://github.com/user-attachments/assets/7fbe0cde-31b3-4fe1-b4d7-8c7eee3b5316" />
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Adrita Das
 Passionate about full-stack web development | GitHub Profile
 
-📜 License
+## 📜 License
 This project is for educational and personal use only.
 You may modify and distribute with proper attribution.
 
